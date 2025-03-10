@@ -4,6 +4,12 @@
 [![Greenkeeper](https://badges.greenkeeper.io/raix/vscode-perl-debug.svg)](https://greenkeeper.io/)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+## THIS DEBUGGER IS DEPRECATED
+
+Use this perl debugger instead: https://marketplace.visualstudio.com/items?itemName=richterger.perl
+
+### Original readme:
+
 A debugger for perl in vs code.
 
 ![Perl Debug](images/vscode-perl-debugger.gif)
